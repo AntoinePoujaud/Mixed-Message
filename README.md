@@ -15,7 +15,7 @@ This **"project"** is just a generator of random messages. You can only run the 
 
 ### Wtf is that readme ?
 
-Now a ~table~ image, just because I want to learn how to use it in a Readme file lmao.
+Now a random ~table~ image, just because I want to learn how to use it in a Readme file lmao.
 
 ![alt text][logo]
 
