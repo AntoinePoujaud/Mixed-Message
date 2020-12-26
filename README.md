@@ -17,9 +17,9 @@ This **"project"** is just a generator of random messages. You can only run the 
 
 Now a table, just because I want to learn how to use it in a Readme file lmao.
 
-|Wow, a table|Unbelievable|Damn   |
-|------------|iiiiiish....|---:   |
-|that's not  |fun         |at all |
+|Wow, a table   |Unbelievable   |Damn   |
+|------------   |iiiiiish....   |---:   |
+|that's not     |fun            |at all |
 
 
 
